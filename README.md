@@ -41,7 +41,7 @@
     <section>
         <h2>Connect With Me</h2>
         <p>Email: srisaicharan84@gmail.com</p>
-        <p><a href="https://github.com" target="_blank">GitHub Profile</a></p>
+        <p><a href="https://srisaicharan84-creator.github.io/" target="_blank">GitHub Profile</a></p>
     </section>
 
 </body>
